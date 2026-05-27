@@ -208,4 +208,4 @@ Safety identifiers do not carry over from Responses API requests or from other s
 Use [Audio and speech](https://developers.openai.com/api/docs/guides/audio) for the core concepts behind
   audio input, audio output, streaming, latency, transcripts, and speech
   generation. Use this overview when you are ready to choose an implementation
-  path.
+  path. 
